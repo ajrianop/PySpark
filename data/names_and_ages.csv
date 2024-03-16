@@ -1,50 +1,50 @@
-﻿Name;Age;Experience
-Alice;25;2
-Bob;30;4
-Charlie;22;7
-David;35;12
-Emma;28;9
-Frank;40;1
-Grace;23;3
-Henry;32;14
-Irene;27;25
-Jack;33;2
-Karen;26;3
-Leo;29;1
-Maria;31;0
-Nathan;37;0
-Olivia;24;3
-Paul;38;1
-Quinn;21;14
-Rachel;34;3
-Sam;39;6
-Taylor;36;15
-Ulysses;42;7
-Victoria;20;6
-Walter;45;5
-Xander;28;2
-Yasmine;31;8
-Zachary;29;2
-Ava;26;4
-Benjamin;32;3
-Chloe;23;6
-Daniel;35;21
-Emily;27;0
-Finn;30;9
-Giselle;24;8
-Hayden;33;5
-Isabella;36;7
-Jacob;28;2
-Kylie;25;4
-Liam;31;5
-Megan;22;12
-Noah;37;2
-Peyton;39;9
-Quentin;34;10
-Riley;29;19
-Sophia;41;18
-Tyler;40;4
-Ursula;26;2
-Vincent;30;6
-Willow;33;17
-Michael;28;16
+﻿Name;Age;Experience;Salary_USD;ID job;Current Position
+Alice;25;2;2911;9;Graphic Designer
+Bob;30;4;3443;2;Data Scientist
+Charlie;22;7;7034;5;Marketing Manager
+David;35;12;9118;6;Financial Analyst
+Emma;28;9;12455;7;Human Resources Specialist
+Frank;40;1;8372;1;Software Engineer
+Grace;23;3;2443;7;Human Resources Specialist
+Henry;32;14;7750;10;Operations Manager
+Irene;27;25;3635;7;Human Resources Specialist
+Jack;33;2;15356;9;Graphic Designer
+Karen;26;3;1940;7;Human Resources Specialist
+Leo;29;1;4865;8;Customer Service Representative
+Maria;31;0;1883;8;Customer Service Representative
+Nathan;37;0;7096;3;Project Manager
+Olivia;24;3;6736;9;Graphic Designer
+Paul;38;1;2120;3;Project Manager
+Quinn;21;14;16975;3;Project Manager
+Rachel;34;3;2238;1;Software Engineer
+Sam;39;6;6936;10;Operations Manager
+Taylor;36;15;7815;2;Data Scientist
+Ulysses;42;7;3026;3;Project Manager
+Victoria;20;6;8174;10;Operations Manager
+Walter;45;5;5596;7;Human Resources Specialist
+Xander;28;2;19054;9;Graphic Designer
+Yasmine;31;8;12362;10;Operations Manager
+Zachary;29;2;6746;6;Financial Analyst
+Ava;26;4;5179;8;Customer Service Representative
+Benjamin;32;3;6242;10;Operations Manager
+Chloe;23;6;8412;6;Financial Analyst
+Daniel;35;21;11092;2;Data Scientist
+Emily;27;0;6996;1;Software Engineer
+Finn;30;9;11485;5;Marketing Manager
+Giselle;24;8;14278;9;Graphic Designer
+Hayden;33;5;12213;2;Data Scientist
+Isabella;36;7;1965;4;Sales Associate
+Jacob;28;2;10900;4;Sales Associate
+Kylie;25;4;1602;1;Software Engineer
+Liam;31;5;14483;7;Human Resources Specialist
+Megan;22;12;17440;7;Human Resources Specialist
+Noah;37;2;4811;5;Marketing Manager
+Peyton;39;9;5530;1;Software Engineer
+Quentin;34;10;13287;4;Sales Associate
+Riley;29;19;11555;7;Human Resources Specialist
+Sophia;41;18;8562;5;Marketing Manager
+Tyler;40;4;13628;9;Graphic Designer
+Ursula;26;2;10230;10;Operations Manager
+Vincent;30;6;8001;6;Financial Analyst
+Willow;33;17;16315;3;Project Manager
+Michael;28;16;6166;6;Financial Analyst
